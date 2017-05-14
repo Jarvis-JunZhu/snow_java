@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<base>
+    <title>很爱很爱你哟</title>
+    <toName>洋洋</toName>
+    <sender>岳英明</sender>
+    <textContent>
+         <!-- 下面是你需要告诉对方的话，注意#号换行哟 -->
+        致：我的宝贝——洋洋。
+　　
+        在我写下这段文字的时候，
+        虽然，
+        我的身体此刻没有与你在一起，
+        可是，
+        我的灵魂却在你身边，
+        时刻都在。
+        这是一种精神，
+        是一种信念。
+        因为，
+        在我写下这段文字的时候，
+        我的生命，
+        必将注定与你在一起，
+        永永远远。
+
+        今晚天气特别的冷，
+        远处的你是否穿的够暖呢？
+        迷迷糊糊，
+        大四已过去一半，
+        世人都向往的大学的生活，
+        即将告一段落。
+        宝贝，
+        此时此刻，
+        你是否和我一样，
+        内心有着一种依念和不舍呢？
+
+        校园虽小，
+        他不是我们理想的，
+        步步莲花，
+        绿柳成荫，
+        可是，
+        他的每个角落，
+        都留下了我们的身影。
+        每当我想到那，
+        我们手牵手走过的跑道，
+        我们相拥的操场，
+        我们背靠背坐过的草坪，
+        还有那，
+        我们吃完饭总要去转悠的校门口石阶，
+        总会温暖我的心房。
+        或许爱便如此产生。
+
+        坐在电脑前，
+        我把对你的思念写入了代码中，
+        变成了程序，
+        对着它，
+        我可以想象你浅浅的微笑，
+        我也相信这些代码，
+        可以抹平近段以来一些纠结的画面。
+        此刻的我一腔情怀铺在炫丽的电脑屏上，
+        盖上今生与来世的印章，
+        无声的情书都是白屏黑字，
+        是一份永恒的契约，
+        深深的储存在硬盘的最深处。
+
+        宝贝，
+        记得曾经你说你喜欢我叫你宝贝。
+        我一定在余生每天都温柔地这样叫你，
+        我的前二十年没有这样的称呼，
+        此后，
+        只为一个人，
+        一个我一生的爱，
+        一生眷恋的人。
+
+        前两天你说，
+        没有人会离开了谁就活不下去的，
+        听了你的话，
+        我有些伤心和失落。
+        你不大相信爱情，
+        但我一定是对爱情坚贞的，
+        我相信未来的日子你可以见证一切。
+
+
+        这些都是我发自肺腑的声音。
+        相信我，
+        在你六七十时，
+        在你满头花发时，
+        有我依然在你身边。
+        依然牵着你的小手，
+        在花园里，
+        街道边，
+        聊聊天散散步！
+
+
+        宝贝，
+        在你面前，
+        我投降得最彻底，
+        我的高傲没有超过三分钟。
+        我爱你，
+        并献上我年轻的身体和我的心，
+        并由你支配。
+        我也同时一定为信念而活着。
+        我会珍惜你，
+        珍惜过去、现在和将来。
+
+        ————————，
+        愿宝贝永远开心快乐！
+
+    </textContent>
+    <photoes>
+         <!-- 
+            只要按下面的格式就可以增加自己喜爱的照片哟，
+            msg属性为照片提示内容，标签内容为照片地址
+         -->
+        <photo msg='嘿嘿，这是在哪呢'>/img/photo/outdoors.png</photo>
+        <photo msg='一些泛黄的记忆'>/img/photo/yang.png</photo>
+        <photo msg='我们似乎很少一起拍照呢'>/img/photo/youandme.png</photo>
+        <photo msg='小心蛋糕弄脸上去了哟'>/img/photo/eatCook.png</photo>
+    </photoes>
+    
+    <!-- 一下内容不要轻易改变 -->
+    <system>
+        <!-- 背景音乐 -->
+        <music>/music/baby.wav</music>
+        <!-- 托盘图标 -->
+        <trayIco>/img/snowIco.gif</trayIco>
+        <!-- 雪花样式 -->
+        <snow>/img/snow_2.gif</snow>
+        <!-- 主页背景图 -->
+        <homeBg>/img/bg1.gif</homeBg>
+         <!-- 退出提示背景图 -->
+        <exitBg>/img/exitDialog.png</exitBg>
+        <!-- 按钮图标 -->
+        <buttonIcoes>
+            <musicIco>/img/music.gif</musicIco>
+            <exitIco>/img/exit.gif</exitIco>
+            <snowIco>/img/snow.gif</snowIco>
+            <backIco>/img/exit_05.png</backIco>
+            <exitSureIco>/img/exit_03.png</exitSureIco>
+        </buttonIcoes>
+    </system>
+    
+</base>
